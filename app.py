@@ -32,7 +32,7 @@ def hello_world():
 	<br></br><br></br><br></br>
 	<footer class="bg-dark text-white text-center py-3 mt-5">
 	<center><img loading="lazy" class="object-none object-center" src="" width="60" height="60">
-        Powered By NIKHIL 
+        Powered By CHIRU 
 		<img loading="lazy" class="object-none object-center" src="" width="60" height="60">
 		<div class="footer__copyright">
             <p class="footer__copyright-info">
