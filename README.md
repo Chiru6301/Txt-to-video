@@ -15,5 +15,3 @@ Edit Variable in **vars.py**
 /stop - 🛑 Bot stop
 /saini - 🎬 Txt file upload
 ```
-# Deploy Your App to Heroku
-<a href="https://heroku.com/deploy?template=https://github.com/Chiru6301/Txt-to-video/commits?author=Chiru6301"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku Button"></a>
