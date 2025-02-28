@@ -16,6 +16,4 @@ Edit Variable in **vars.py**
 /saini - 🎬 Txt file upload
 ```
 # Deploy Your App to Heroku
-
-[![Deploy to heroku chacha](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/KUSHOFFICIAL7/drm_paid_url)
-
+<a href="https://heroku.com/deploy?template=https://github.com/Chiru6301/Txt-to-video/commits?author=Chiru6301"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku Button"></a>
